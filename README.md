@@ -18,5 +18,5 @@ Loodud õppe eesmärgil õpilastele, kiiresti erinevate failide tegemiseks. Eeld
 Käivitamiseks pead olema õiges kaustas ning siis anna käsklus
 ```py main.py``` Täida ekraanil esitatud küsimused. Hoolega jälgi kolmandat ehk viimast küsimust. Ära siin eksi! Soovituslik koht, kuhu failid teha on ```c:\Temp\files```
 
-# Mine õigesse kasuta
+# Mine õigesse kausta
 ```cd c:\Temp\files```
